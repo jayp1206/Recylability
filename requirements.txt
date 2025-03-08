@@ -1,0 +1,4 @@
+nyckel
+opencv-python
+serial
+requests
