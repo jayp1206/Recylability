@@ -1,4 +1,4 @@
 nyckel
 opencv-python
+imgurpython
 serial
-requests
